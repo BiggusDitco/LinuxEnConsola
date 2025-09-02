@@ -1,68 +1,51 @@
 # Linux en Consola
 
-Bienvenido a **LinuxEnConsola**, un proyecto colaborativo en español que reúne programas y herramientas útiles para usar directamente desde la consola de Linux.  
-La idea es simple: una lista viva, organizada y práctica para descubrir programas que hacen de la terminal un lugar más poderoso y divertido.  
+Bienvenido a **LinuxEnConsola**, un proyecto colaborativo en español que reúne programas y herramientas útiles para usar directamente desde la consola de Linux.
+
+Una lista viva, organizada y práctica para descubrir programas que hacen de la terminal un lugar más poderoso y productivo.
 
 ---
 
-## 🚀 Objetivo
-- Aprender y compartir programas que se ejecutan desde la consola.  
-- Facilitar ejemplos sencillos de uso.  
-- Crear una comunidad abierta de aportes en español.  
+## 📂 Explora por categorías
+
+| | Categoría | Programas incluidos |
+|---|-----------|------------|
+| 🖥️ | [**Sistema**](sistema.md) | htop, neofetch, systemctl, ps, free... |
+| 🌐 | [**Red**](red.md) | curl, wget, ssh, ping, nmap... |
+| 🛠️ | [**Utilidades**](utilidades.md) | grep, find, tar, rsync, bat... |
+| 🎵 | [**Multimedia**](multimedia.md) | ffmpeg, mpv, imagemagick, yt-dlp... |
+| 🔒 | [**Seguridad**](seguridad.md) | gpg, nmap, fail2ban, ssh-keygen... |
 
 ---
 
-## 📂 Categorías
-Los programas se irán organizando por temas en archivos separados:
+## 🤝 Contribuir es fácil
 
-- 🖥️ **Sistema** → Monitoreo, procesos, administración.  
-- 🌐 **Red** → Conexiones, descargas, pruebas de red.  
-- 🛠️ **Utilidades** → Búsqueda, compresión, manejo de archivos.  
-- 🎵 **Multimedia** → Audio, video, imágenes desde consola.  
-- 🔒 **Seguridad** → Cifrado, análisis, gestión de contraseñas.  
+1. **Fork** del repositorio
+2. **Agrega** un programa a la categoría correspondiente
+3. **Sigue** el formato: nombre, descripción breve, ejemplo
+4. **Envía** tu Pull Request
+
+📋 **[Guía completa de contribución](CONTRIBUTING.md)**
 
 ---
 
-## 📖 Ejemplo de entrada
+## 🎯 ¿Por qué este proyecto?
 
-### `htop`
-Monitor interactivo de procesos en la consola.  
-```bash
-htop
-```
+- **En español**: Documentación clara en nuestro idioma
+- **Ejemplos prácticos**: Comandos que realmente funcionan  
+- **Colaborativo**: La comunidad hace crecer el conocimiento
+- **Enfoque consola**: Para quienes aman la productividad en terminal
 
-### `curl`
-Herramienta para transferir datos desde o hacia un servidor.  
-```bash
-curl -O [URL]
-```
+---
 
-### `ncdu`
-Analizador de uso de disco en consola.  
-```bash
-ncdu
-```
+## 📺 Próximamente
 
-## 🤝 Cómo contribuir
+Lanzaremos el canal de YouTube **"Linux en Consola"** donde explicaremos y probaremos en vivo muchos de los programas de este repositorio.
 
-¡Tu ayuda es bienvenida! 🙌
+---
 
-* Hacé un fork de este repositorio.
-* Agregá un programa en la categoría correspondiente.
-* Nombre del programa
-* Descripción breve (1–2 líneas)
-* Ejemplo mínimo de uso
-* Enviá un Pull Request con tus cambios.
-* También podés sugerir programas abriendo un Issue.
+## 📄 Licencia
 
-## 📜 Licencia
+MIT - Usa, comparte y modifica libremente citando la fuente.
 
-Este proyecto está bajo la licencia MIT, lo que significa que podés usar, copiar y modificar el contenido libremente, siempre citando la fuente.
-
-## 📺 Futuro
-
-Próximamente lanzaremos un canal de YouTube llamado Linux en Consola, donde probaremos y explicaremos en video muchos de los programas que aparecen acá.
-
-## ✨ Sumate
-
-Este repo es solo el inicio. Si te interesa aprender Linux desde la consola o aportar tus conocimientos, ¡sumate y colaboremos!
+**¡Sumate y hagamos crecer juntos el conocimiento de Linux en consola!** 🚀
