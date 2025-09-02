@@ -38,12 +38,6 @@ Una lista viva, organizada y práctica para descubrir programas que hacen de la 
 
 ---
 
-## 📺 Próximamente
-
-Lanzaremos el canal de YouTube **"Linux en Consola"** donde explicaremos y probaremos en vivo muchos de los programas de este repositorio.
-
----
-
 ## 📄 Licencia
 
 MIT - Usa, comparte y modifica libremente citando la fuente.
